@@ -10,15 +10,26 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/themer/css/themer.css"
-# app_include_js = "/assets/themer/js/themer.js"
+#app_include_css = "/assets/themer/css/themer.css"
+#app_include_js =  "/assets/themer/css/style.css",
+#app_include_js = "/assets/themer/css/bootstrap.min.css",
+#app_include_js = "/assets/themer/lib/owlcarousel/assets/owl.carousel.min.css",
+#app_include_js = "/assets/themer/lib/lightbox/css/lightbox.min.css",
+#app_include_js = "/assets/themer/js/main.js",
+#app_include_js= "/assets/themer/lib/easing/easing.min.js",
+#app_include_js = "/assets/themer/lib/waypoints/waypoints.min.js",
+#app_include_js= "/assets/themer/lib/lightbox/js/lightbox.min.js",
+#app_include_js= "/assets/themer/lib/owlcarousel/owl.carousel.min.js"
+
 
 # include js, css files in header of web template
-# web_include_css = "/assets/themer/css/themer.css"
-# web_include_js = "/assets/themer/js/themer.js"
+#eb_include_css = "/assets/themer/css/style.css",
+
+#web_include_js = "/assets/themer/js/main.js",
+
 
 # include custom scss in every website theme (without file extension ".scss")
-# website_theme_scss = "themer/public/scss/website"
+#website_theme_scss = "themer/public/scss/website"
 
 # include js, css files in header of web form
 # webform_include_js = {"doctype": "public/js/doctype.js"}
