@@ -1,4 +1,5 @@
 ## Themer
+git clone
 
 themer for unganisha
 
